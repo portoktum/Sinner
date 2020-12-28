@@ -10,3 +10,5 @@ Adicionada a pasta Images - 27/11
 Adicionada as pastas css, js, asass e webfonts
 
 Adicionando CSS - 03/12
+
+Site Finalizado -  28/12
